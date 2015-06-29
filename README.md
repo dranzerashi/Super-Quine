@@ -29,6 +29,3 @@ gfedcbagfedcba
 
 Score:
 7
-
-Hint:
-You can contact me if you have any question about the Special Judge or your code.
